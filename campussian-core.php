@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Campussian Core
- * Plugin URI:        https://salmanfarshe.me
+ * Plugin URI:        https://salmanfarshe.me/campussian-core/
  * Description:       School role management and access control for the Campussian theme: custom roles, wp-admin gating, login routing and portal pages.
  * Version:           1.0.5
  * Author:            Salman Farshe
@@ -12,7 +12,6 @@
  * Domain Path:       /languages
  * Requires at least: 5.8
  * Requires PHP:      7.4
- * Tested up to:      7.1
  */
 
 // Exit if accessed directly.

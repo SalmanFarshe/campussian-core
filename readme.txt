@@ -1,5 +1,5 @@
 === Campussian Core ===
-Contributors: whycodedb
+Contributors: whycodebd
 Tags: roles, user-roles, access-control, education, school
 Requires at least: 5.8
 Tested up to: 7.1

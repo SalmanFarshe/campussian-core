@@ -699,6 +699,9 @@ final class Campussian_Core {
 
 		$this->register_roles();
 		$this->provision_pages();
+		if (function_exists('cmpsian_register_cpts')) {
+			cmpsian_register_cpts();
+		}
 		flush_rewrite_rules();
 	}
 
